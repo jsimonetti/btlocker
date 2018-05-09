@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=BTLocker
+Icon=/usr/share/icons/hicolor/48x48/apps/bluetooth.png
+Exec="/usr/local/bin/bt_locker"
+Comment=Auto Lock using BT proximity
+Terminal=false
